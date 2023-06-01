@@ -14,7 +14,7 @@ Now entering a block quote:
 >
 > end of nested quote above
 
-Let's continue with *normal* text that could be **bold**, or even both ***bold and italics***
+Let's continue with *normal* text that could be **bold**, or even both ***bold and italics***.
 
 <eof>
 
